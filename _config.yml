@@ -1,0 +1,5 @@
+title: My AI Journey
+description: A running record of my experience using AI / LLM
+baseurl: ""        # leave blank when hosting at the repo root
+url: "https://sccardais.github.io"
+theme: minima
